@@ -1,3 +1,3 @@
 # Final-Design
 
-<a href="intro_tp_html/index.html">Page One</a>
+<a href="intro_to_html/index.html">Page One</a>
